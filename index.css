@@ -56,3 +56,12 @@ body{
     font-weight: bold;
     color: white;
 }
+.about h3{
+    font-size: 4em;
+    text-align: center;
+    padding-top: 20px;
+}
+.underline{
+    margin-top: -20px;
+    color: rgb(191, 115, 96);
+}
