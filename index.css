@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto+Serif:wght@500&display=swap');
+*{
+    box-sizing: border-box;
+    height: 100;
+    width: 100%;
+    
+}
 body{
     margin: 0;
     padding: 0;
@@ -21,9 +27,9 @@ body{
 .nav-link{
     color: white !important; 
 }
-.nav-item{
-    padding-left: 30px;
-}
+/* .nav-item{
+    padding: 10px;
+} */
 .nav-link:hover{
     color: rgb(191, 115, 96) !important;
 }
@@ -34,6 +40,7 @@ body{
 }
 .img-fluid{
     height: 100vh;
+    width: auto;
 }
 .name{
     position: absolute;
