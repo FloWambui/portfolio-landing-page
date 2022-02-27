@@ -31,7 +31,7 @@ body{
     padding: 10px;
 } */
 .nav-link:hover{
-    color: rgb(191, 115, 96) !important;
+    color: rgb(191, 114, 95) !important;
 }
 .background{
     display: flex;
@@ -129,9 +129,9 @@ body{
     flex-direction: row;
 }
 .workimage{
-    height: 700px;
-    width: 800px;  
-    margin: 50px 0px 0px 50px;  
+    height: 16.5cm;
+    width: 16.5cm;  
+    margin: 50px 0px 0px 10px;  
 }
 .details-particulars{
     margin: 50px 30px;
@@ -140,3 +140,22 @@ body{
 .details-particulars h5, h3{
     font-weight: 700;
 }
+.card{
+    background-color: hsl(308, 11%, 15%);
+    border: 3px solid white;
+    border-radius: 10px;
+    height: 15cm;
+}
+.btn{
+    background-color: rgb(191, 114, 95);
+}
+.card-body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+}
+.card img{
+    height: 200px;
+}
+card
