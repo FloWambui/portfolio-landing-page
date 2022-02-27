@@ -161,3 +161,45 @@ body{
 .card-title{
     font-weight: bolder;
 }
+.contact h3{
+    font-size: 4em;
+    text-align: center;
+    padding-top: 20px;
+}
+.cntc{
+    background-color: #292128;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+.contactform{
+    background-color:#292128;
+    color:  white;
+    height: 15cm;
+    width: 20cm;
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 0px 0px 0px 30%;
+
+    
+}
+.contactform h4{
+    margin: 50px 0px 30px 50px;
+}
+.contactform ul{
+    list-style: none;
+    margin: 0px 0px 50px 0px;
+}
+.contactform input{
+    height: 2cm;
+    width: 18cm;
+}
+.submit{
+    height: 1.2cm;
+    width: 10cm;
+    background-color: rgb(191, 114, 95);
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+    margin: 0px 0px 30px 100px;
+}
