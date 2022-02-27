@@ -117,3 +117,19 @@ body{
     background-color: #292128 !important;
     color: white;
 }
+.work-experience h3{
+    font-size: 4em;
+    text-align: center;
+    padding-top: 20px;
+}
+.work-experience-deets{
+    background-color: #292128;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+.workimage{
+    height: 45%;
+    width: 40%;
+    
+}
