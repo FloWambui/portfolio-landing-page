@@ -108,3 +108,12 @@ body{
     display: inline-block
     
 }
+.container h3{
+    font-size: 4em;
+    text-align: center;
+    padding-top: 20px;
+}
+.table{
+    background-color: #292128 !important;
+    color: white;
+}
