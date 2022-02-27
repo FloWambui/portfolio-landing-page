@@ -129,7 +129,14 @@ body{
     flex-direction: row;
 }
 .workimage{
-    height: 45%;
-    width: 40%;
-    
+    height: 700px;
+    width: 800px;  
+    margin: 50px 0px 0px 50px;  
+}
+.details-particulars{
+    margin: 50px 30px;
+    line-height: 1.6em;
+}
+.details-particulars h5, h3{
+    font-weight: 700;
 }
