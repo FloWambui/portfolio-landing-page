@@ -17,7 +17,7 @@
 **Education Page**
 ![This is Education Background Section](/assets/education.png)
 **Live Page**
- >This is the link to the live page: https://flowambui.github.io/QuizBoard/
+ >This is the link to the live page: https://flowambui.github.io/portfolio-landing-page/
 
 ### Requirements
 
